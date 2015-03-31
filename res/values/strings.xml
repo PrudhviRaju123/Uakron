@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">U Akron</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="speak">Speak Now</string>
+    
+      <string name="hint_print">Select printer</string>
+ 
+    <string-array name="printer_loc">
+        <item>DocuZip - Exchange St</item>
+        <item>DocuZip - Polsky</item>
+        <item>Docuzip - Student Union</item>
+        <item>Printing Services</item>
+      </string-array>
+    
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Campus search</item>
+        <item>People Search</item>
+        <item>Roo Bus</item>
+        <item>Printer Document</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/home_icon</item>
+        <item>@drawable/building_search</item>
+        <item>@drawable/people_search</item>
+        <item>@drawable/roo_bus_srch</item>
+        <item>@drawable/document_print</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
